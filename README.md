@@ -30,3 +30,7 @@ Notes:
 * due to padding = "same" , reconstructed patched image size is bigger than the original and therefore we use CenterCrop at the end of the process
 * GAN's generator output is mapped to 0-255 by the function "interval_mapping(image, from_min, from_max, to_min, to_max)"
 
+Showcasing the results:
+https://user-images.githubusercontent.com/40007988/176913301-4acd9956-03ac-4839-aa9c-369f35df2494.MP4
+
+
