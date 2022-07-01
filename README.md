@@ -12,9 +12,9 @@ Inputs:
 * IMAGE_DIM_PARAM = 128 # GAN model input shape - in this case the GAN receives 128*128*1 images
 * BATCH_SIZE = 20  # Batch size
 
-* Blur_Valid_DS =os.path.join("C:/Users/E010236/Downloads","Blur_Valid_DS.npy") # Blurred Validation Data Set
-* Sharp_Valid_DS =os.path.join("C:/Users/E010236/Downloads","Sharp_Valid_DS.npy") # Sharp Validation Data Set
-* hdf_path = os.path.join("C:/Users/E010236/Downloads","my_best_model.epoch11-loss47.87.hdf5") # Path to HDF5 file of trained model **weights only**
+* Blur_Valid_DS =os.path.join("C:/Users/...","Blur_Valid_DS.npy") # Blurred Validation Data Set
+* Sharp_Valid_DS =os.path.join("C:/Users/...","Sharp_Valid_DS.npy") # Sharp Validation Data Set
+* hdf_path = os.path.join("C:/Users/...","my_best_model.epoch11-loss47.87.hdf5") # Path to HDF5 file of trained model **weights only**
 
 steps:
 1. Run the script and pick any video.
