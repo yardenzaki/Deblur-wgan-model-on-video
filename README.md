@@ -2,6 +2,9 @@
  wgan architecture to perform deblurring task
 ![img.png](img.png)
 
+![image](https://user-images.githubusercontent.com/40007988/176914601-8b19f42f-b9a1-4d6c-ba2e-905a96c2adae.png)
+
+
 This Script applies a trained Deblurring GAN model on a "blurry input (video)" to demonstrate the improvement in sharpness
 
 Inputs:
